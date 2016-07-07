@@ -5,5 +5,8 @@
 .resume{
 	width:700px;
 	margin:0 auto;
+	
+}
+.resume td{
 	border: 1px solid #ccc;
 }
